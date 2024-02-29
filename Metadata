@@ -1,0 +1,51 @@
+<resource xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">XX.XXXXX/XXXX-XXXX</identifier>
+<creators>
+<creator>
+<creatorName nameType="Personal">Cheung, Kevin</creatorName>
+<givenName>Kevin</givenName>
+<familyName>Cheung</familyName>
+<nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0001-5727-2427</nameIdentifier>
+<affiliation affiliationIdentifier="https://ror.org/04wxnsj81" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">ExampleAffiliation</affiliation>
+</creator>
+<creator>
+<creatorName xml:lang="en" nameType="Organizational">University of Washington</creatorName>
+</creator>
+</creators>
+<titles>
+<title xml:lang="en">Selected Indicators from World Bank 2000-2021</title>
+<title titleType="Subtitle" xml:lang="en">University of Washington LIS 545 Project</title>
+</titles>
+<publicationYear>2024</publicationYear>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<subjects>
+<subject subjectScheme="Library of Congress subject headings" schemeURI="http://id.loc.gov/vocabulary/subjectSchemes/lcsh" classificationCode="lcsh">Economic history</subject>
+</subjects>
+<contributors>
+<contributor contributorType="ContactPerson">
+<contributorName nameType="Personal">Cheung, Kevin</contributorName>
+<givenName>Kevin</givenName>
+<familyName>Cheung</familyName>
+<affiliation affiliationIdentifier="https://ror.org/04wxnsj81" affiliationIdentifierScheme="ROR" schemeURI="https://ror.org">University of Washington</affiliation>
+</contributor>
+<contributor contributorType="DataCollector">
+<contributorName nameType="Personal">World Bank</contributorName>
+</contributor>
+<contributor contributorType="DataCurator">
+<contributorName nameType="Personal">Lofaro, Roberto</contributorName>
+</contributor>
+</contributors>
+<dates>
+<date dateType="Created">2024-02-29</date>
+<date dateType="Submitted">2024-02-29</date>
+</dates>
+<language>en</language>
+<sizes>
+<size>1 MB</size>
+<size>90 pages</size>
+</sizes>
+<formats>
+<format>application/xml</format>
+<format>text/plain</format>
+</formats>
+<version>1</version>
